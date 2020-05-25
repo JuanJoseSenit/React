@@ -1,0 +1,33 @@
+*{
+    background-color: white;
+}
+.contenedor-imagenes{
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.imagenes{
+    width: 500px;
+}
+.cams{
+    width: 500px;
+    height: 375px;
+    
+   
+    
+    
+}
+.cams:hover{
+    border: solid 5px grey;
+}
+.imagenes:hover{
+    border: solid 5px grey;
+}
+
+.texto{
+    text-align: center;
+    border: solid,2px,grey;
+}
+
